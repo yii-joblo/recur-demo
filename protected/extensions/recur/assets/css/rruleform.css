@@ -1,0 +1,63 @@
+div.rruleform div
+{
+    float: left;
+    clear:both;
+    display: block;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    border-bottom: 1px dotted;
+    width: 100%;
+}
+
+div.rruleform label
+{
+    padding-right: 1em;
+    padding-left: 1em;
+    display: inline;
+    float: left;
+}
+
+div.rruleform input, select, button
+{
+    display: inline;
+    float: left;
+}
+
+div#rrule-preview
+{
+    clear:both;
+    float:left;
+}
+
+div.rruleform fieldset
+{
+    background: #ffffff;
+}
+
+div.rruleform fieldset.rrule, span.rrule
+{
+    background: #E6EFC2;
+    margin-top: 1em;
+}
+
+
+div.rruleform fieldset.exrule, span.exrule
+{
+    background: #FEE;
+}
+
+
+div.rruleform div.row
+{
+    margin-bottom: 1em;
+}
+
+div.rrule-container-item
+{
+    padding: 0.2em;
+}
+
+div.container a img
+{
+    padding: 0.2em;
+}
